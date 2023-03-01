@@ -13,4 +13,7 @@
 
 # terraformrc file
 terraform.rc
-.terraformrc
+.terraformr
+
+# terraform lock file
+.terraform.lock.hcl
